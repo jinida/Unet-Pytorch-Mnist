@@ -2,7 +2,7 @@
 A repository that has implemented UNet using PyTorch. And this code contains code and examples for visualization.
 
 # Environment
- - Python 3.8.2
+ - Python - 3.8.2
  - Pytorch - 1.12.1
  - Matplotlib - 3.7.1
 
